@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Pages\Categorias\RegistrarCategoriaPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Estoque\AbaixoEstoquePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Estoque\AcimaEstoquePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Estoque\AlterarProdutoEstoquePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Produtos\RegistrarProdutoPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
